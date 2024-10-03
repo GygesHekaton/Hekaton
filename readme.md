@@ -33,35 +33,36 @@ Suggested 1-cost signposts at this stage are:
 
 **Legendary Creature**
 Creatures with a fair mana cost whose effect requires either a ton of supporting build-around cards or needs considerable support before changing the shape of the game.
-- [[Queen Marchesa]]
-- [[Arcades, The Strategist]]
+- [Queen Marchesa](https://scryfall.com/card/otc/239/queen-marchesa)
+- [Arcades, the Strategist](https://scryfall.com/card/m19/212/arcades-the-strategist)
 
 **Ramp**
 Cards that either cost 2 to implement, but the mana isn't immediately usable, or 3-mana implementations with usable mana and a moderate upside.
-- [[Rampant Growth]]
-- [[Commander's Sphere]]
+- [Rampant Growth](https://scryfall.com/card/dsc/193/rampant-growth)
+- [Commander's Sphere](https://scryfall.com/card/dsc/244/commanders-sphere)
 
 **Card Draw**
 Cards that add a proportionate amount of cards for their cost, or cards who have a card draw condition that is either heavily reliant on your board state or requires future investment.
-- [[Night's Whisper]]
-- [[Reconnaissance Mission]]
+- [Night's Whisper](https://scryfall.com/card/dsc/79/nights-whisper)
+- [Reconnaissance Mission](https://scryfall.com/card/voc/111/reconnaissance-mission)
 
 **Single Target Removal**
 Cards that either have a fair cost or an immediate or future downside that has to be considered.
-- [[Vindicate]]
-- [[Beast Within]]
-- [[Chaos Warp]]
+- [Vindicate](https://scryfall.com/card/mh2/294/vindicate)
+- [Beast Within](https://scryfall.com/card/dsc/80/beast-within)
+- [Chaos Warp](https://scryfall.com/card/dsc/162/chaos-warp)
 
 **Board Wipe**
 Cards that affect all players symmetrically at a medium cost at sorcery speed without resetting the entire state of the game.
-- [[Wrath of God]]
-- [[Evacuation]]
+- [Wrath of God](https://scryfall.com/card/cmm/70/wrath-of-god)
+- [Evacuation](https://scryfall.com/card/lcc/156/evacuation)
 
 **Counterspells**
 Cards that counter a spell for 2 mana without significant upside.
-- [[Counterspell]]
-- [[Tibalt's Trickery]]
+- [Counterspell](https://scryfall.com/card/dsc/114/counterspell)
+- [Tibalt's Trickery](https://scryfall.com/card/khm/153/tibalts-trickery)
 
+Other categories will be introduced as well, such as "Token Generation" and "Enchantment Removal"
 
 ### Adjusting Cards
 Format stability is the most important aspect for continued investment. Card rankings will have to be updated frequently in the beginning and then slow down as the relative balance reveals itself.
@@ -70,15 +71,15 @@ Once the initial pool of most-played cards is rated, their ratings will be voted
 
 Also being proposed is that every new card introduced to the format gets a probationary period of one month with a valuation of 1 until it receives its first rating by the Hekaton administrators. We have had too many reactionary moments of misvaluation before a card has seen play to rate them ahead of time. Also, people should get a chance to play their new cards before they are rated so that they will have a better idea of how it fits within their deck, and whether or not the cost makes it worth keeping.
 
-[[Mana Crypt]]'s power has been self-evident since the birth of EDH. If they had used our rating system at that time, it would have received a high valuation and stayed there, only possibly reducing incrementally as the format's power level rose via newer, more ridiculous cards.
+[Mana Crypt's](https://scryfall.com/card/2xm/270/mana-crypt) power has been self-evident since the birth of EDH. If they had used our rating system at that time, it would have received a high valuation and stayed there, only possibly reducing incrementally as the format's power level rose via newer, more ridiculous cards.
 
-Inversely, [[Dockside Extortionist]] famously started off as an undervalued card until its power revealed itself. Then as Wizards printed an unholy amount of treasure and sacrifice support at higher and higher power levels, Dockside's relative power increased instead of leveling out. It would initially have received a medium valuation, and then climbed and climbed proportionately to its effect on the format, eventually causing players to have to consider its place in their decks, rather than its final status as an auto-include in anything with red.
+Inversely, [Dockside Extortionist](https://scryfall.com/card/2x2/107/dockside-extortionist) famously started off as an undervalued card until its power revealed itself. Then as Wizards printed an unholy amount of treasure and sacrifice support at higher and higher power levels, Dockside's relative power increased instead of leveling out. It would initially have received a medium valuation, and then climbed and climbed proportionately to its effect on the format, eventually causing players to have to consider its place in their decks, rather than its final status as an auto-include in anything with red.
 
-[[Lutri, the Spellthief]] was banned due to it being an auto-include in every deck with blue and red because it cost nothing to do so. With the rating system, this would no longer be the case. It would cost a minimum of 1, but it will probably climb higher than that over time. Is it still an auto-include if you have to sacrifice a basic land for it? Maybe, but what if it rises to 3? 
+[Lutri, the Spellchaser](https://scryfall.com/card/iko/227/lutri-the-spellchaser) was banned due to it being an auto-include in every deck with blue and red because it cost nothing to do so. With the rating system, this would no longer be the case. It would cost a minimum of 1, but it will probably climb higher than that over time. Is it still an auto-include if you have to sacrifice a basic land for it? Maybe, but what if it rises to 3? 
 
 There are no more auto-includes.
 
-This completely removes the grandfathering of cards that Hasbro and the rules committee have told us are beyond reproach, such as [[Sol Ring]]. It is an incredible card, and everyone has one, but its rating should reflect its actual power and not its availability, legacy, or price. Every card added to your deck should convey a sense of choice.
+This completely removes the grandfathering of cards that Hasbro and the rules committee have told us are beyond reproach, such as [Sol Ring](https://scryfall.com/card/dsc/94/sol-ring). It is an incredible card, and everyone has one, but its rating should reflect its actual power and not its availability, legacy, or price. Every card added to your deck should convey a sense of choice.
 
 ### Deckbuilding
 
@@ -100,9 +101,9 @@ Hekaton introduces better tools to create leagues of lower deck ratings, returni
 ### Bans and Unbans
 Strict banning will not be the mechanism used to balance the system going forward.
 
-[[Primeval Titan]] is a powerful and easily exploitable card, but should it be excluded from the format entirely? I think not. Its point cost should reflect the impact he has on the game, but those willing to make huge sacrifices with their decks to play it in lower value pods or in high-power competitive Hekaton should have the opportunity to do so without being accused of harming people who they don't even play with.
+[Primeval Titan](https://scryfall.com/card/ima/183/primeval-titan) is a powerful and easily exploitable card, but should it be excluded from the format entirely? I think not. Its point cost should reflect the impact he has on the game, but those willing to make huge sacrifices with their decks to play it in lower value pods or in high-power competitive Hekaton should have the opportunity to do so without being accused of harming people who they don't even play with.
 
-People want to play with the cards they have. If you want to run [[Black Lotus]], it will be one of the most restrictive cards to include, but there should be a home for you. 
+People want to play with the cards they have. If you want to run [Black Lotus](https://scryfall.com/card/vma/4/black-lotus), it will be one of the most restrictive cards to include, but there should be a home for you. 
 
 ## Concerns
 ### Player Investment
@@ -110,7 +111,7 @@ People want to play with the cards they have. If you want to run [[Black Lotus]]
 **A:** Yes. However, the barrier to EDH is already unreasonably high, with far more convoluted ways of resolving it. New players accidentally play with banned cards or cards wildly higher or lower than their playgroup's meta because they don't know either how they work in other decks, or how they have been abused by others in the past. This tool, if implemented simply, gives them a resource to review their new cards within a more coherent context without having to spend hours on youtube or reading articles to have the most basic understanding.
 
 **Q:** *Isn't price the main barrier to entry to most people? Shouldn't we rate expensive cards higher so that new players don't feel like they're missing out?*
-**A:** To prevent corruption, price must remain irrelevant to this format. We have no position on what cards *should* cost, and we are entirely neutral on the subject of proxies. That being said, once the cards are being voted on, people will inevitably use some of their own subjective criteria. We won't prevent people from rating [[Bayou]] a 7 just because of its price if that's what the community wants, but our language should discourage the use of price as relevant criteria.
+**A:** To prevent corruption, price must remain irrelevant to this format. We have no position on what cards *should* cost, and we are entirely neutral on the subject of proxies. That being said, once the cards are being voted on, people will inevitably use some of their own subjective criteria. We won't prevent people from rating [Bayou](https://scryfall.com/card/vma/293/bayou) a 7 just because of its price if that's what the community wants, but our language should discourage the use of price as relevant criteria.
 
 ### Safety
 **Q:** *What measures will be taken to prevent the pitchfork army from attacking?*
