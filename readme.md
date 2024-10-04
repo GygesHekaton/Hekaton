@@ -1,4 +1,4 @@
-# Hekaton - An Alternative to Commander 
+# Hekaton - A Community-Led Commander Alternative
 
 *Disclaimer: This is in concept phase. I am gauging interest and baiting feedback and criticism before committing.*
 
