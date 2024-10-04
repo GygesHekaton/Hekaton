@@ -46,7 +46,7 @@ There are no more auto-includes.
 
 This completely removes the grandfathering of cards that Hasbro and the rules committee have told us are beyond reproach, such as [Sol Ring](https://scryfall.com/card/dsc/94/sol-ring). It is an incredible card, and everyone has one, but its rating should reflect its actual power and not its availability, legacy, or price. Every card added to your deck should convey a sense of choice.
 
-### Deckbuilding
+## Deckbuilding
 
 Pods or events may decide their own criteria for entry. Players looking for a medium/casual experience could set their point limit at, say, 150, where other pods could set it at 300.
 
