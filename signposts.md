@@ -33,4 +33,4 @@ Cards that counter a spell for 2 mana without significant upside.
 - [Counterspell](https://scryfall.com/card/dsc/114/counterspell)
 - [Tibalt's Trickery](https://scryfall.com/card/khm/153/tibalts-trickery)
 
-Other categories will be introduced as well, such as "Token Generation" and "Enchantment Removal"
+Other categories will be introduced as well, such as "Token Generation" and "Enchantment Removal" once interest level is determined.
