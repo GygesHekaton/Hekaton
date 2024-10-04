@@ -108,9 +108,11 @@ People want to play with the cards they have. If you want to run [Black Lotus](h
 ## Concerns
 ### Player Investment
 **Q:** *Isn't an online rating system and individual card valuation a high barrier of entry for new players?*
+
 **A:** Yes. However, the barrier to EDH is already unreasonably high, with far more convoluted ways of resolving it. New players accidentally play with banned cards or cards wildly higher or lower than their playgroup's meta because they don't know either how they work in other decks, or how they have been abused by others in the past. This tool, if implemented simply, gives them a resource to review their new cards within a more coherent context without having to spend hours on youtube or reading articles to have the most basic understanding.
 
 **Q:** *Isn't price the main barrier to entry to most people? Shouldn't we rate expensive cards higher so that new players don't feel like they're missing out?*
+
 **A:** To prevent corruption, price must remain irrelevant to this format. We have no position on what cards *should* cost, and we are entirely neutral on the subject of proxies. That being said, once the cards are being voted on, people will inevitably use some of their own subjective criteria. We won't prevent people from rating [Bayou](https://scryfall.com/card/vma/293/bayou) a 7 just because of its price if that's what the community wants, but our language should discourage the use of price as relevant criteria.
 
 ### Safety
