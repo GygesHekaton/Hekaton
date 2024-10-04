@@ -12,7 +12,7 @@ With modern tools such as Git, cloud collaboration software, and online database
 
 I propose: **Hekaton.**
 
-Hekaton starts with the current rules of EDH, but with one massive change.
+Hekaton starts with the current [rules of EDH](https://mtgcommander.net/index.php/rules/), but with one massive change.
 
 ## Point System
 We are moving to a point-buy system for card selection.
