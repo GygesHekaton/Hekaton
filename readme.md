@@ -115,6 +115,7 @@ People want to play with the cards they have. If you want to run [Black Lotus](h
 
 ### Safety
 **Q:** *What measures will be taken to prevent the pitchfork army from attacking?*
+
 **A:** This will be disincentivized in several ways:
 - Differing levels of anonymity: Who I am isn't important, and I don't need to know you either. Anyone invited to collaborate on the project, if they so wish, will be allowed to hide their identity from the public and from the other collaborators, with the current exception of myself. If desired, I may be able to find a way to authenticate each of them with a random name every time we communicate so that, while I broadly know who is involved, I may not know whose opinion is being shared.
 - Open Standards and Transparent Processes: Development will be done in the open using tools that are accessible to anyone. You will be able to review and comment on every aspect of it, from the ratio of votes needed to trigger a rating shift, to the criteria by which cards are rated.
