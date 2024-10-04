@@ -1,6 +1,6 @@
 # Hekaton - An Alternative to Commander 
 
-*Disclaimer: This is in concept phase. I am gauging interest and baiting feedback and criticism before investing.*
+*Disclaimer: This is in concept phase. I am gauging interest and baiting feedback and criticism before committing.*
 
 EDH/Commander has been the most beloved way to play kitchen-table magic for many years. Until now, it was managed by a group of individuals who were not under the direct purview of Hasbro, and that gave it a tenuous (if sometimes tumultuous) sense of objectivity and fun outside of the pure esports mindset that formats with more competitive metas have ultimately been reduced to under their guidance.
 
