@@ -63,7 +63,7 @@ Building low power decks is fun, but previous methods have been based on the pri
 
 Hekaton introduces better tools to create leagues of lower deck ratings, returning the massive pool of forgotten and underpowered cards to the format as deck builders find more and more ways to engage in creative deckbuilding.
 
-### Bans and Unbans
+## Bans and Unbans
 Strict banning will not be the mechanism used to balance the system going forward.
 
 [Primeval Titan](https://scryfall.com/card/ima/183/primeval-titan) is a powerful and easily exploitable card, but should it be excluded from the format entirely? I think not. Its point cost should reflect the impact he has on the game, but those willing to make huge sacrifices with their decks to play it in lower value pods or in high-power competitive Hekaton should have the opportunity to do so without being accused of harming people who they don't even play with.
